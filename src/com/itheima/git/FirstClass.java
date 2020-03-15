@@ -20,4 +20,10 @@ public class FirstClass {
         i+= 10;
     }
 
+
+    public void test1(){
+        int i = 1;
+        i+= 10;
+    }
+
 }
