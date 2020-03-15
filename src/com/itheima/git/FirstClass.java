@@ -13,6 +13,7 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        //hello test
     }
 
     public void test(){
@@ -22,6 +23,11 @@ public class FirstClass {
 
 
     public void test1(){
+        int i = 1;
+        i+= 10;
+    }
+
+    public void test3333(){
         int i = 1;
         i+= 10;
     }
